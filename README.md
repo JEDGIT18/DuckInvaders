@@ -3,4 +3,4 @@ Google Cssi Final project: Project for Google's computer science summer institut
 Idea: Space invaders and duck hunt simulation via processing 3 API functions
 
 Contributes: Caleb Baines, Joshua Drakes
-
+Language: python and very little java 
